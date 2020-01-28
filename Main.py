@@ -70,6 +70,4 @@ history = model.fit_generator(
     validation_steps=numValidImages
 )
 
-you suck
-
 
